@@ -16,5 +16,10 @@ namespace herramientas3_prueba
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
